@@ -9,11 +9,15 @@
 
 
 
+**** 
+
 **📌 Project Overview**
 
 This project showcases an end-to-end data analytics workflow using Power BI, starting from raw data cleaning to delivering actionable insights through an interactive dashboard.
 
 The analysis focuses on global video game sales, helping identify trends, top-performing genres, and publisher dominance across different regions.
+
+
 
 **🎯 Objectives**
 Clean and preprocess raw gaming dataset
@@ -21,6 +25,7 @@ Analyze global and regional sales trends
 Identify top genres and publishers
 Build an interactive and visually appealing Power BI dashboard
 Generate business insights from data
+
 
 
 **📂 Dataset Details**
@@ -50,7 +55,9 @@ Prepared dataset for efficient analysis
 
 <img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/e69b468d-adf3-4222-9c73-c53064dc672e" />
 
+
 <img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/da4b7cd4-a3e8-4e9f-88cf-a6d980a6b9aa" />
+
 
 
 **The dashboard provides:**
@@ -80,6 +87,7 @@ Data Cleaning & Transformation
 Analytical Thinking
 
 
+
 **🔄 Workflow**
 📷 Dashboard Preview
 
@@ -92,15 +100,19 @@ Strong understanding of data visualization principles
 Skill in creating interactive dashboards
 Translating data into business insights
 
+
 **🚀 How to Use**
 Clone the repository
 Open the .pbix file in Power BI Desktop
 Interact with filters and visuals
 
+
 **📌 Future Improvements**
 Add time-series forecasting
 Include platform-wise deeper analysis
 Enhance dashboard with advanced DAX measures
+
+
 
 🤝 Let's Connect
 
